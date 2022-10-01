@@ -1,0 +1,1 @@
+Utility fucntion for The Key Logger
